@@ -30,7 +30,7 @@ header {
   font-size: 25px;
   font-weight: 600;
 }
-.main-container .input-field {
+.main-container .inputField {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -57,7 +57,7 @@ i.fa-plus-circle:hover {
 }
 
 /* TODO LIST */
-.todo-list {
+.todoList {
   max-height: 250px;
   overflow-y: auto;
   margin: 20px 0;
